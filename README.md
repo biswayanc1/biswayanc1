@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # 👋 Hey there, I'm biswayanc1
 
 🚀 A DevOps engineer passionate about building resilient, secure, and observable systems using Kubernetes and GitOps principles.
