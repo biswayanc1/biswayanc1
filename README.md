@@ -29,7 +29,7 @@
 
 ## 🎯 Career Goals
 
-I'm actively looking for DevOps/Kubernetes roles in Europe focused on:
+I'm actively looking for DevOps/Kubernetes roles in focused on:
 
 - Cluster management & platform engineering  
 - CI/CD pipelines & GitOps  
