@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 # 👋 Hey there, I'm biswayanc1
 
 🚀 A DevOps engineer passionate about building resilient, secure, and observable systems using Kubernetes and GitOps principles.
@@ -58,4 +58,3 @@ I'm actively looking for DevOps/Kubernetes roles in Europe focused on:
 
 Thanks for stopping by! Drop a ⭐ if you like what I’m building 🚀
 ..
--->
